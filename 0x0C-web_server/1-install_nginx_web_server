@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+# Install ngnix
 apt-get update
 apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
