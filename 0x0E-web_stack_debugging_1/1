@@ -1,0 +1,4 @@
+rm: cannot remove '/etc/ngnix/sites-enabled/default': No such file or directory
+ln: failed to create symbolic link '/etc/ngnix/sites-enabled/default': No such file or directory
+Failed to restart ngnix.service: Interactive authentication required.
+See system logs and 'systemctl status ngnix.service' for details.

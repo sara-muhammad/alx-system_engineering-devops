@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Open the 80 port
+rm /etc/ngnix/sites-enabled/default
+ln -s /etc/ngnix/sites-available/default /etc/ngnix/sites-enabled/default
+service ngnix restart
