@@ -1,4 +1,4 @@
-#**Sever Requests Failure Report**
+**Sever Requests Failure Report** </br>
 Last Month, it was reported that all the request made to our server is returning a 500 Error, all our services were down. The root cause was from one of the configuration file of our server web_stack_debugging_1.
 
 **Timeline**
