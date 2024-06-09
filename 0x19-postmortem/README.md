@@ -1,4 +1,4 @@
-<img src = "C:\Users\hp\OneDrive\Desktop\What-Is-the-Mysterious-500-Internal-Server-Error-Header-1.jpg"></img>
+<img src = "C:\Users\hp\OneDrive\Desktop\What-Is-the-Mysterious-500-Internal-Server-Error-Header-1.jpg"></img> </br>
 
 h1> <b>Sever Requests Failure Report </b></h1> </br> 
 Last Month, it was reported that all the request made to our server is returning a 500 Error, all our services were down. The root cause was from one of the configuration file of our server web_stack_debugging_1.
