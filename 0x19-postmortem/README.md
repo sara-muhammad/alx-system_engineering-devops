@@ -1,4 +1,4 @@
-<img src = "https://www.hostpapa.com/blog/app/uploads/2022/12/What-Is-the-Mysterious-500-Internal-Server-Error-Header-1-1536x864.jpg "></img> </br>
+![What-Is-the-Mysterious-500-Internal-Server-Error-Header-1](https://github.com/sara-muhammad/alx-system_engineering-devops/assets/36906315/4de4f342-0edc-4741-b8e9-efbcf800f6aa)
 
 <h1> <b>Sever Requests Failure Report </b></h1> </br> 
 Last Month, it was reported that all the request made to our server is returning a 500 Error, all our services were down. The root cause was from one of the configuration file of our server web_stack_debugging_1.
