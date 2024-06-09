@@ -1,3 +1,6 @@
+![Uploading What-Is-the-Mysterious-500-Internal-Server-Error-Header-1.jpg…]()
+
+
 Sever Requests Failure Report
 Last Month, it was reported that all the request made to our server is returning a 500 Error, all our services were down. The root cause was from one of the configuration file of our server web_stack_debugging_1.
 
